@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/divyanshi-2612/Leetcode/tree/master/0566-reshape-the-matrix) |
+## Math
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/divyanshi-2612/Leetcode/tree/master/0319-bulb-switcher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/divyanshi-2612/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
