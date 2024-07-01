@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/divyanshi-2612/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1293-three-consecutive-odds](https://github.com/divyanshi-2612/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1656-count-good-triplets](https://github.com/divyanshi-2612/Leetcode/tree/master/1656-count-good-triplets) |
+| [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/divyanshi-2612/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 ## Matrix
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/divyanshi-2612/Leetcode/tree/master/1656-count-good-triplets) |
+| [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/divyanshi-2612/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 ## Hash Table
 |  |
 | ------- |
