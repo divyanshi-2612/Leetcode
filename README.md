@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/divyanshi-2612/Leetcode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/divyanshi-2612/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/divyanshi-2612/Leetcode/tree/master/0268-missing-number) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/divyanshi-2612/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/divyanshi-2612/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
