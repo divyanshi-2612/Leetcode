@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/divyanshi-2612/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/divyanshi-2612/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/divyanshi-2612/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/divyanshi-2612/Leetcode/tree/master/0319-bulb-switcher) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/divyanshi-2612/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1720-crawler-log-folder](https://github.com/divyanshi-2612/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
