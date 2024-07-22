@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/divyanshi-2612/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divyanshi-2612/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/divyanshi-2612/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2502-sort-the-people](https://github.com/divyanshi-2612/Leetcode/tree/master/2502-sort-the-people) |
 | [2722-prime-in-diagonal](https://github.com/divyanshi-2612/Leetcode/tree/master/2722-prime-in-diagonal) |
 ## Matrix
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divyanshi-2612/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/divyanshi-2612/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/divyanshi-2612/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2502-sort-the-people](https://github.com/divyanshi-2612/Leetcode/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/divyanshi-2612/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/divyanshi-2612/Leetcode/tree/master/0268-missing-number) |
+| [2502-sort-the-people](https://github.com/divyanshi-2612/Leetcode/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/divyanshi-2612/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/divyanshi-2612/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/divyanshi-2612/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2502-sort-the-people](https://github.com/divyanshi-2612/Leetcode/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
