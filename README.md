@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyanshi-2612/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshi-2612/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/divyanshi-2612/Leetcode/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/divyanshi-2612/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyanshi-2612/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/divyanshi-2612/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/divyanshi-2612/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0219-contains-duplicate-ii) |
