@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/divyanshi-2612/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/divyanshi-2612/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/divyanshi-2612/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2032-largest-odd-number-in-string](https://github.com/divyanshi-2612/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2722-prime-in-diagonal](https://github.com/divyanshi-2612/Leetcode/tree/master/2722-prime-in-diagonal) |
 ## Brainteaser
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/divyanshi-2612/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1720-crawler-log-folder](https://github.com/divyanshi-2612/Leetcode/tree/master/1720-crawler-log-folder) |
+| [2032-largest-odd-number-in-string](https://github.com/divyanshi-2612/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/divyanshi-2612/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/divyanshi-2612/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/divyanshi-2612/Leetcode/tree/master/2502-sort-the-people) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divyanshi-2612/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/divyanshi-2612/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/divyanshi-2612/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/divyanshi-2612/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
