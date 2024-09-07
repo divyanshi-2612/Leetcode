@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/divyanshi-2612/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshi-2612/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/divyanshi-2612/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0890-lemonade-change](https://github.com/divyanshi-2612/Leetcode/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/divyanshi-2612/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/divyanshi-2612/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1656-count-good-triplets](https://github.com/divyanshi-2612/Leetcode/tree/master/1656-count-good-triplets) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/divyanshi-2612/Leetcode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/divyanshi-2612/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
