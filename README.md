@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/divyanshi-2612/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/divyanshi-2612/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/divyanshi-2612/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/divyanshi-2612/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2722-prime-in-diagonal](https://github.com/divyanshi-2612/Leetcode/tree/master/2722-prime-in-diagonal) |
 ## Brainteaser
 |  |
