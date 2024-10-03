@@ -6,9 +6,7 @@ class Solution {
         for (int i=0; i<nums.length; i++)
         {
             if (nums[i]==1)
-            {
-                c++;
-            }
+             c++;
             else 
             c=0;
             max = Math.max(max,c);
