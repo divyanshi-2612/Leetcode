@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/divyanshi-2612/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0890-lemonade-change](https://github.com/divyanshi-2612/Leetcode/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/divyanshi-2612/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/divyanshi-2612/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/divyanshi-2612/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1656-count-good-triplets](https://github.com/divyanshi-2612/Leetcode/tree/master/1656-count-good-triplets) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/divyanshi-2612/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/divyanshi-2612/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/divyanshi-2612/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/divyanshi-2612/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/divyanshi-2612/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/divyanshi-2612/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divyanshi-2612/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
