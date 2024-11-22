@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/divyanshi-2612/Leetcode/tree/master/1656-count-good-triplets) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/divyanshi-2612/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1720-crawler-log-folder](https://github.com/divyanshi-2612/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/divyanshi-2612/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/divyanshi-2612/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/divyanshi-2612/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divyanshi-2612/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
