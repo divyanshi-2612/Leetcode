@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/divyanshi-2612/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/divyanshi-2612/Leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/divyanshi-2612/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1942-primary-department-for-each-employee](https://github.com/divyanshi-2612/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/divyanshi-2612/Leetcode/tree/master/2057-count-salary-categories) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/divyanshi-2612/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/divyanshi-2612/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
