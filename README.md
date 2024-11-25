@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/divyanshi-2612/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyanshi-2612/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/divyanshi-2612/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/divyanshi-2612/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/divyanshi-2612/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0890-lemonade-change](https://github.com/divyanshi-2612/Leetcode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/divyanshi-2612/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
