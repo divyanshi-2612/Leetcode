@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/divyanshi-2612/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/divyanshi-2612/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0344-reverse-string) |
+| [0812-rotate-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0812-rotate-string) |
 | [1720-crawler-log-folder](https://github.com/divyanshi-2612/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/divyanshi-2612/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/divyanshi-2612/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0812-rotate-string) |
 ## Database
 |  |
 | ------- |
