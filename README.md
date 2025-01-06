@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/divyanshi-2612/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divyanshi-2612/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/divyanshi-2612/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/divyanshi-2612/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/divyanshi-2612/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2502-sort-the-people](https://github.com/divyanshi-2612/Leetcode/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/divyanshi-2612/Leetcode/tree/master/2634-minimum-common-value) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/divyanshi-2612/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1642-water-bottles](https://github.com/divyanshi-2612/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/divyanshi-2612/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/divyanshi-2612/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/divyanshi-2612/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1894-merge-strings-alternately](https://github.com/divyanshi-2612/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/divyanshi-2612/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2634-minimum-common-value](https://github.com/divyanshi-2612/Leetcode/tree/master/2634-minimum-common-value) |
 ## String
 |  |
