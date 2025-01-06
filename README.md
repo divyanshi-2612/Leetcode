@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/divyanshi-2612/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/divyanshi-2612/Leetcode/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/divyanshi-2612/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/divyanshi-2612/Leetcode/tree/master/0189-rotate-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/divyanshi-2612/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/divyanshi-2612/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/divyanshi-2612/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshi-2612/Leetcode/tree/master/0287-find-the-duplicate-number) |
