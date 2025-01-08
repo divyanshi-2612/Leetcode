@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/divyanshi-2612/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshi-2612/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/divyanshi-2612/Leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/divyanshi-2612/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/divyanshi-2612/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/divyanshi-2612/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyanshi-2612/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/divyanshi-2612/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/divyanshi-2612/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyanshi-2612/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/divyanshi-2612/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/divyanshi-2612/Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/divyanshi-2612/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/divyanshi-2612/Leetcode/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/divyanshi-2612/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/divyanshi-2612/Leetcode/tree/master/0189-rotate-array) |
