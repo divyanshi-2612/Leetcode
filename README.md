@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/divyanshi-2612/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/divyanshi-2612/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/divyanshi-2612/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/divyanshi-2612/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/divyanshi-2612/Leetcode/tree/master/0217-contains-duplicate) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/divyanshi-2612/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/divyanshi-2612/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/divyanshi-2612/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/divyanshi-2612/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/divyanshi-2612/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/divyanshi-2612/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/divyanshi-2612/Leetcode/tree/master/0217-contains-duplicate) |
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/divyanshi-2612/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/divyanshi-2612/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
