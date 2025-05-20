@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/divyanshi-2612/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divyanshi-2612/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/divyanshi-2612/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/divyanshi-2612/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyanshi-2612/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/divyanshi-2612/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2502-sort-the-people](https://github.com/divyanshi-2612/Leetcode/tree/master/2502-sort-the-people) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/divyanshi-2612/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/divyanshi-2612/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/divyanshi-2612/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/divyanshi-2612/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2427-first-letter-to-appear-twice](https://github.com/divyanshi-2612/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/divyanshi-2612/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/divyanshi-2612/Leetcode/tree/master/2727-number-of-senior-citizens) |
