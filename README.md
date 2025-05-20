@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/divyanshi-2612/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshi-2612/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/divyanshi-2612/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/divyanshi-2612/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/divyanshi-2612/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/divyanshi-2612/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/divyanshi-2612/Leetcode/tree/master/0054-spiral-matrix) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/divyanshi-2612/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/divyanshi-2612/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/divyanshi-2612/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/divyanshi-2612/Leetcode/tree/master/0118-pascals-triangle) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshi-2612/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/divyanshi-2612/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/divyanshi-2612/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/divyanshi-2612/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/divyanshi-2612/Leetcode/tree/master/0125-valid-palindrome) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/divyanshi-2612/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/divyanshi-2612/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1720-crawler-log-folder](https://github.com/divyanshi-2612/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/divyanshi-2612/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/divyanshi-2612/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Union Find
