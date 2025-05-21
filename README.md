@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/divyanshi-2612/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyanshi-2612/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0890-lemonade-change](https://github.com/divyanshi-2612/Leetcode/tree/master/0890-lemonade-change) |
+| [0926-find-and-replace-pattern](https://github.com/divyanshi-2612/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1293-three-consecutive-odds](https://github.com/divyanshi-2612/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/divyanshi-2612/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/divyanshi-2612/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/divyanshi-2612/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/divyanshi-2612/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshi-2612/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0926-find-and-replace-pattern](https://github.com/divyanshi-2612/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/divyanshi-2612/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/divyanshi-2612/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/divyanshi-2612/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/divyanshi-2612/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0812-rotate-string) |
+| [0926-find-and-replace-pattern](https://github.com/divyanshi-2612/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1205-defanging-an-ip-address](https://github.com/divyanshi-2612/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1720-crawler-log-folder](https://github.com/divyanshi-2612/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/divyanshi-2612/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
