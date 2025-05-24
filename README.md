@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/divyanshi-2612/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/divyanshi-2612/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/divyanshi-2612/Leetcode/tree/master/0392-is-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/divyanshi-2612/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshi-2612/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/divyanshi-2612/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/divyanshi-2612/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyanshi-2612/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2634-minimum-common-value](https://github.com/divyanshi-2612/Leetcode/tree/master/2634-minimum-common-value) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/divyanshi-2612/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/divyanshi-2612/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/divyanshi-2612/Leetcode/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0812-rotate-string) |
 | [0926-find-and-replace-pattern](https://github.com/divyanshi-2612/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1205-defanging-an-ip-address](https://github.com/divyanshi-2612/Leetcode/tree/master/1205-defanging-an-ip-address) |
