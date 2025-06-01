@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/divyanshi-2612/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/divyanshi-2612/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1720-crawler-log-folder](https://github.com/divyanshi-2612/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/divyanshi-2612/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/divyanshi-2612/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/divyanshi-2612/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/divyanshi-2612/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/divyanshi-2612/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/divyanshi-2612/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/divyanshi-2612/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Number Theory
 |  |
 | ------- |
