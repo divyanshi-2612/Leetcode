@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/divyanshi-2612/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/divyanshi-2612/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/divyanshi-2612/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/divyanshi-2612/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/divyanshi-2612/Leetcode/tree/master/0392-is-subsequence) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/divyanshi-2612/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/divyanshi-2612/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Database
@@ -412,9 +414,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/divyanshi-2612/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/divyanshi-2612/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/divyanshi-2612/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/divyanshi-2612/Leetcode/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
