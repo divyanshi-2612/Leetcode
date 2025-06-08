@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/divyanshi-2612/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1293-three-consecutive-odds](https://github.com/divyanshi-2612/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/divyanshi-2612/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/divyanshi-2612/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/divyanshi-2612/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshi-2612/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1656-count-good-triplets](https://github.com/divyanshi-2612/Leetcode/tree/master/1656-count-good-triplets) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshi-2612/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/divyanshi-2612/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/divyanshi-2612/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/divyanshi-2612/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshi-2612/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/divyanshi-2612/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2634-minimum-common-value](https://github.com/divyanshi-2612/Leetcode/tree/master/2634-minimum-common-value) |
