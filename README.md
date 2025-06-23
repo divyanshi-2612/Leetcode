@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/divyanshi-2612/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/divyanshi-2612/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/divyanshi-2612/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1236-n-th-tribonacci-number](https://github.com/divyanshi-2612/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/divyanshi-2612/Leetcode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/divyanshi-2612/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0812-rotate-string) |
 | [0926-find-and-replace-pattern](https://github.com/divyanshi-2612/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/divyanshi-2612/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/divyanshi-2612/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/divyanshi-2612/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/divyanshi-2612/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/divyanshi-2612/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/divyanshi-2612/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyanshi-2612/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/divyanshi-2612/Leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/divyanshi-2612/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/divyanshi-2612/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/divyanshi-2612/Leetcode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/divyanshi-2612/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
