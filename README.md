@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/divyanshi-2612/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/divyanshi-2612/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/divyanshi-2612/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/divyanshi-2612/Leetcode/tree/master/2050-count-good-numbers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/divyanshi-2612/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2722-prime-in-diagonal](https://github.com/divyanshi-2612/Leetcode/tree/master/2722-prime-in-diagonal) |
 ## Brainteaser
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/divyanshi-2612/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/divyanshi-2612/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/divyanshi-2612/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/divyanshi-2612/Leetcode/tree/master/2050-count-good-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
